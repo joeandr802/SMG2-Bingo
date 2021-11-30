@@ -1,0 +1,151 @@
+[[
+{ "name": "Rightside Down 1" },
+{ "name": "Kill a Cosmic Clone, then Get the Star" },
+{ "name": "Kill a Lakitu, then Get the Star" },
+{ "name": "Spin Dig 2" },
+{ "name": "2 Hidden Stars" }
+],[
+{ "name": "Puzzle Plank S" },
+{ "name": "4 Stars from World 2" },
+{ "name": "Cosmic Cove 2" },
+{ "name": "Get a Silver Crown in 1 Galaxy" },
+{ "name": "Switch to Luigi and complete a mission" }
+],[
+{ "name": "7 Stars from World 1" },
+{ "name": "4 Stars from World 3" },
+{ "name": "1 Daredevil Comet" },
+{ "name": "Sky Station C" },
+{ "name": "End a Mission with 50 Coins" }
+],[
+{ "name": "Take Damage from Drowning" },
+{ "name": "Get Crushed by Something that isn't an Enemy" },
+{ "name": "75 Star Bits in a Single Mission" },
+{ "name": "1 Comet with a Boss Fight" },
+{ "name": "3 Stars while Riding Yoshi" }
+],[
+{ "name": "8 Comet Medals" },
+{ "name": "1 Romp Comet" },
+{ "name": "Fluffy Bluff L" },
+{ "name": "100 Star Bits in a Single Mission" },
+{ "name": "Complete 3 Teleporter Games, then Collect the Star" }
+],[
+{ "name": "3 Unique Powerups" },
+{ "name": "Boulder Bowl C" },
+{ "name": "Boulder Bowl L" },
+{ "name": "Hightail Falls S" },
+{ "name": "Chompworks 2" }
+],[
+{ "name": "Honeybloom 1" },
+{ "name": "125 Star Bits in a Single Level" },
+{ "name": "4 Stars from World 4" },
+{ "name": "1 Fluzzard OR Star Ball Star" },
+{ "name": "Buy from a Luma Shop" }
+],[
+{ "name": "Haunty Halls 2" },
+{ "name": "Freezy Flake 2" },
+{ "name": "Wild Glide L" },
+{ "name": "Flip-Swap C" },
+{ "name": "Cloudy Court S" }
+],[
+{ "name": "Tall Trunk C" },
+{ "name": "2 Speed Run Comets" },
+{ "name": "Supermassive S" },
+{ "name": "4 Unique Letters" },
+{ "name": "Flipsville C" }
+],[
+{ "name": "4 Hidden Stars" },
+{ "name": "2 Purple Coin Comets" },
+{ "name": "Complete 5 Teleporter Games, then Collect the Star" },
+{ "name": "4 Stars from World 5" },
+{ "name": "12 Lives (No Mailtoad/Supermassive 1)" }
+],[
+{ "name": "Fiery Flotilla C" },
+{ "name": "1 Comet in World 4 OR 5" },
+{ "name": "4 Grand Stars" },
+{ "name": "Kill a Cosmic Clone, then Get the Star for 3 Missions" },
+{ "name": "All 3 Yoshi Powerups" }
+],[
+{ "name": "4 Stars from Comets" },
+{ "name": "Upside Dizzy 1" },
+{ "name": "5 Stars while Riding Yoshi" },
+{ "name": "Honeyhop L" },
+{ "name": "Lava Lair C" }
+],[
+{ "name": "Starshine Beach C" },
+{ "name": "5 Grand Stars" },
+{ "name": "Fearsome Fleet C" },
+{ "name": "7 Stars from World 2" },
+{ "name": "Get a 1UP from a Shiny Gearmo" }
+],[
+{ "name": "4 Stars from World 6" },
+{ "name": "Feed 3 Hungry Lumas (Any Kind)" },
+{ "name": "2 Stars from Hungry Luma Galaxies" },
+{ "name": "Gravity Gauntlet C" },
+{ "name": "Slipsand C" }
+],[
+{ "name": "Bring 3 Powerups back to the Engine Room" },
+{ "name": "Fleet Glide L" },
+{ "name": "Complete 6 Teleporter Games, then Collect the Star" },
+{ "name": "1 Comet in World 6" },
+{ "name": "7 Stars in World 3" }
+],[
+{ "name": "1 Star from each Galaxy in 1 World" },
+{ "name": "14 Comet Medals" },
+{ "name": "Throwback C" },
+{ "name": "Clockwork Ruins 1" },
+{ "name": "1 Fluzzard Star AND 1 Star Ball Star" }
+],[
+{ "name": "Slimy Spring 1" },
+{ "name": "7 Stars from World 4" },
+{ "name": "End a Star with 110 Coins" },
+{ "name": "3 Stars from Hungry Luma Galaxies" },
+{ "name": "660 or More in the Skating Challenge" }
+],[
+{ "name": "Lose 2 Life Mushrooms" },
+{ "name": "Both Box-Breaking Minigames" },
+{ "name": "8 Stars from Comets" },
+{ "name": "Battle Belt S" },
+{ "name": "3 Sets of Silver Stars" }
+],[
+{ "name": "Get a Silver Crown in Boo Moon" },
+{ "name": "Defeat 6 Unique Bosses" },
+{ "name": "Get a Silver Crown in Melty Monster" },
+{ "name": "3 Stars from The Chimp" },
+{ "name": "Boom Bunker C" }
+],[
+{ "name": "20 Lives (No Mailtoad/Supermassive 1)" },
+{ "name": "1 Bronze Star" },
+{ "name": "5 Unique Powerups" },
+{ "name": "7 Stars from World 5" },
+{ "name": "12 Stars from Comets" }
+],[
+{ "name": "4 Stars from Hungry Luma Galaxies" },
+{ "name": "7 Unique Bosses" },
+{ "name": "7 Stars from World 6" },
+{ "name": "20 Comet Medals" },
+{ "name": "Get a Silver Crown in 3 Galaxies" }
+],[
+{ "name": "Defeat 8 Unique Bosses" },
+{ "name": "4 Stars from The Chimp" },
+{ "name": "Feed 5 Hungry Lumas (Any Kind)" },
+{ "name": "Beat Block C Yoshiless" },
+{ "name": "5 Sets of Silver Stars" }
+],[
+{ "name": "1 Star from each Galaxy in 1 World" },
+{ "name": "Get a Set of Star Chips, then Get the Star for 3 Missions" },
+{ "name": "6 Hidden Stars" },
+{ "name": "Get a Silver Crown in 5 Galaxies" },
+{ "name": "30 Stars" }
+],[
+{ "name": "32 Stars" },
+{ "name": "34 Stars" },
+{ "name": "36 Stars" },
+{ "name": "38 Stars" },
+{ "name": "40 Stars" }
+],[
+{ "name": "1 Star from World S" },
+{ "name": "2 Stars from World S" },
+{ "name": "3 Stars from World S" },
+{ "name": "1 Comet in World S" },
+{ "name": "Twisty Trials 1 Cloudless" }
+]]
