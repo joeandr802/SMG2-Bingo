@@ -1,5 +1,9 @@
 <wiidisc version="1">
-	<id game="SB4" />
+	<id game="SB4">
+		<region type="P"/>
+		<region type="E"/>
+		<region type="J"/>
+	</id>
 	<options>
 		<section name="SMG2 Bingo">
 			<option name="SMG2 Bingo Mod">
@@ -30,5 +34,6 @@
 		<folder external="/SMG2 Bingo/LocalizeData/UsEnglish" disc="/LocalizeData/EuItalian" recursive="true" create="true" />
 		<folder external="/SMG2 Bingo/LayoutData" disc="/LayoutData" recursive="true" create="true" />
 		<folder external="/SMG2 Bingo/AudioRes" disc="/AudioRes" recursive="true" create="true" />
+		<memory offset="0x800248B0" value="386000014E800020"/>
 	</patch>
 </wiidisc>

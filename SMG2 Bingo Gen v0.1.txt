@@ -9,7 +9,7 @@
 { "name": "4 Stars from World 2" },
 { "name": "Cosmic Cove 2" },
 { "name": "Get a Silver Crown in 1 Galaxy" },
-{ "name": "Switch to Luigi and complete a mission" }
+{ "name": "Get a 1UP from a Chance Cube" }
 ],[
 { "name": "7 Stars from World 1" },
 { "name": "4 Stars from World 3" },
