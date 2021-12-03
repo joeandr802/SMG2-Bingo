@@ -57,7 +57,7 @@
 { "name": "2 Purple Coin Comets" },
 { "name": "Complete 5 Teleporter Games, then Collect the Star" },
 { "name": "4 Stars from World 5" },
-{ "name": "12 Lives (No Mailtoad/Supermassive 1)" }
+{ "name": "12 Lives (No Mailtoad/ Supermassive 1)" }
 ],[
 { "name": "Fiery Flotilla C" },
 { "name": "1 Comet in World 4 OR 5" },
@@ -113,7 +113,7 @@
 { "name": "3 Stars from The Chimp" },
 { "name": "Boom Bunker C" }
 ],[
-{ "name": "20 Lives (No Mailtoad/Supermassive 1)" },
+{ "name": "20 Lives (No Mailtoad/ Supermassive 1)" },
 { "name": "1 Bronze Star" },
 { "name": "5 Unique Powerups" },
 { "name": "7 Stars from World 5" },
