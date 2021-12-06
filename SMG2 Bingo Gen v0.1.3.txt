@@ -15,18 +15,18 @@
 { "name": "4 Stars from World 3" },
 { "name": "1 Daredevil Comet" },
 { "name": "Sky Station C" },
-{ "name": "End a Mission with 50 Coins" }
+{ "name": "End a Star with 50 Coins" }
 ],[
 { "name": "Take Damage from Drowning" },
 { "name": "Get Crushed by Something that isn't an Enemy" },
-{ "name": "75 Star Bits in a Single Mission" },
+{ "name": "End a Star with 75 Star Bits" },
 { "name": "1 Comet with a Boss Fight" },
 { "name": "3 Stars while Riding Yoshi" }
 ],[
 { "name": "8 Comet Medals" },
 { "name": "1 Romp Comet" },
 { "name": "Fluffy Bluff L" },
-{ "name": "100 Star Bits in a Single Mission" },
+{ "name": "End a Star with 100 Star Bits" },
 { "name": "Complete 3 Teleporter Games, then Get the Star" }
 ],[
 { "name": "3 Unique Powerups" },
@@ -36,7 +36,7 @@
 { "name": "Chompworks 2" }
 ],[
 { "name": "Honeybloom 1" },
-{ "name": "125 Star Bits in a Single Level" },
+{ "name": "End a Star with 125 Star Bits" },
 { "name": "4 Stars from World 4" },
 { "name": "1 Fluzzard OR Star Ball Star" },
 { "name": "Buy from a Luma Shop" }
@@ -62,7 +62,7 @@
 { "name": "Fiery Flotilla C" },
 { "name": "1 Comet in World 4 OR 5" },
 { "name": "4 Grand Stars" },
-{ "name": "Spawn a Cosmic Clone, then Get the Star for 3 Missions" },
+{ "name": "Spawn a Cosmic Clone, then Get the Star for 3 Stars" },
 { "name": "All 3 Yoshi Powerups" }
 ],[
 { "name": "4 Stars from Comets" },
@@ -132,7 +132,7 @@
 { "name": "5 Sets of Silver Stars" }
 ],[
 { "name": "1 Star from each Galaxy in 2 Worlds" },
-{ "name": "Get a Set of Star Chips, then the Star for 3 Missions" },
+{ "name": "Get a Set of Star Chips, then the Star for 3 Stars" },
 { "name": "6 Hidden Stars" },
 { "name": "Silver Crown in 5 Galaxies" },
 { "name": "30 Stars" }
