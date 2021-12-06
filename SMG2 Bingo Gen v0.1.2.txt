@@ -131,7 +131,7 @@
 { "name": "Beat Block C Yoshiless" },
 { "name": "5 Sets of Silver Stars" }
 ],[
-{ "name": "1 Star from each Galaxy in 1 World" },
+{ "name": "1 Star from each Galaxy in 2 Worlds" },
 { "name": "Get a Set of Star Chips, then Get the Star for 3 Missions" },
 { "name": "6 Hidden Stars" },
 { "name": "Get a Silver Crown in 5 Galaxies" },
