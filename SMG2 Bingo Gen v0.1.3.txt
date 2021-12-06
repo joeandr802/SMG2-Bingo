@@ -1,6 +1,6 @@
 [[
 { "name": "Rightside Down 1" },
-{ "name": "Kill a Cosmic Clone, then Get the Star" },
+{ "name": "Defeat a Cosmic Clone, then Get the Star" },
 { "name": "Kill a Lakitu, then Get the Star" },
 { "name": "Spin Dig 2" },
 { "name": "2 Hidden Stars" }
@@ -62,7 +62,7 @@
 { "name": "Fiery Flotilla C" },
 { "name": "1 Comet in World 4 OR 5" },
 { "name": "4 Grand Stars" },
-{ "name": "Kill a Cosmic Clone, then Get the Star for 3 Missions" },
+{ "name": "Defeat a Cosmic Clone, then Get the Star for 3 Missions" },
 { "name": "All 3 Yoshi Powerups" }
 ],[
 { "name": "4 Stars from Comets" },
@@ -132,7 +132,7 @@
 { "name": "5 Sets of Silver Stars" }
 ],[
 { "name": "1 Star from each Galaxy in 2 Worlds" },
-{ "name": "Get a Set of Star Chips, then Get the Star for 3 Missions" },
+{ "name": "Get a Set of Star Chips, then the Star for 3 Missions" },
 { "name": "6 Hidden Stars" },
 { "name": "Get a Silver Crown in 5 Galaxies" },
 { "name": "30 Stars" }
