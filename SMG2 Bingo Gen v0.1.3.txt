@@ -1,6 +1,6 @@
 [[
 { "name": "Rightside Down 1" },
-{ "name": "Defeat a Cosmic Clone, then Get the Star" },
+{ "name": "Spawn a Cosmic Clone, then Get the Star" },
 { "name": "Kill a Lakitu, then Get the Star" },
 { "name": "Spin Dig 2" },
 { "name": "2 Hidden Stars" }
@@ -8,8 +8,8 @@
 { "name": "Puzzle Plank S" },
 { "name": "4 Stars from World 2" },
 { "name": "Cosmic Cove 2" },
-{ "name": "Get a Silver Crown in 1 Galaxy" },
-{ "name": "Get a 1UP from a Chance Cube" }
+{ "name": "Silver Crown in 1 Galaxy" },
+{ "name": "1UP from a Chance Cube" }
 ],[
 { "name": "7 Stars from World 1" },
 { "name": "4 Stars from World 3" },
@@ -27,7 +27,7 @@
 { "name": "1 Romp Comet" },
 { "name": "Fluffy Bluff L" },
 { "name": "100 Star Bits in a Single Mission" },
-{ "name": "Complete 3 Teleporter Games, then Collect the Star" }
+{ "name": "Complete 3 Teleporter Games, then Get the Star" }
 ],[
 { "name": "3 Unique Powerups" },
 { "name": "Boulder Bowl C" },
@@ -55,14 +55,14 @@
 ],[
 { "name": "4 Hidden Stars" },
 { "name": "2 Purple Coin Comets" },
-{ "name": "Complete 5 Teleporter Games, then Collect the Star" },
+{ "name": "Complete 5 Teleporter Games, then Get the Star" },
 { "name": "4 Stars from World 5" },
 { "name": "12 Lives (No Mailtoad/ Supermassive 1)" }
 ],[
 { "name": "Fiery Flotilla C" },
 { "name": "1 Comet in World 4 OR 5" },
 { "name": "4 Grand Stars" },
-{ "name": "Defeat a Cosmic Clone, then Get the Star for 3 Missions" },
+{ "name": "Spawn a Cosmic Clone, then Get the Star for 3 Missions" },
 { "name": "All 3 Yoshi Powerups" }
 ],[
 { "name": "4 Stars from Comets" },
@@ -83,9 +83,9 @@
 { "name": "Gravity Gauntlet C" },
 { "name": "Slipsand C" }
 ],[
-{ "name": "Bring 3 Powerups back to the Engine Room" },
+{ "name": "Bring 3 Powerups to the Engine Room" },
 { "name": "Fleet Glide L" },
-{ "name": "Complete 6 Teleporter Games, then Collect the Star" },
+{ "name": "Complete 6 Teleporter Games, then Get the Star" },
 { "name": "1 Comet in World 6" },
 { "name": "7 Stars in World 3" }
 ],[
@@ -107,9 +107,9 @@
 { "name": "Battle Belt S" },
 { "name": "3 Sets of Silver Stars" }
 ],[
-{ "name": "Get a Silver Crown in Boo Moon" },
-{ "name": "Defeat 6 Unique Bosses" },
-{ "name": "Get a Silver Crown in Melty Monster" },
+{ "name": "Silver Crown in Boo Moon" },
+{ "name": "6 Unique Bosses" },
+{ "name": "Silver Crown in Melty Monster" },
 { "name": "3 Stars from The Chimp" },
 { "name": "Boom Bunker C" }
 ],[
@@ -123,9 +123,9 @@
 { "name": "7 Unique Bosses" },
 { "name": "7 Stars from World 6" },
 { "name": "20 Comet Medals" },
-{ "name": "Get a Silver Crown in 3 Galaxies" }
+{ "name": "Silver Crown in 3 Galaxies" }
 ],[
-{ "name": "Defeat 8 Unique Bosses" },
+{ "name": "8 Unique Bosses" },
 { "name": "4 Stars from The Chimp" },
 { "name": "Feed 5 Hungry Lumas (Any Kind)" },
 { "name": "Beat Block C Yoshiless" },
@@ -134,7 +134,7 @@
 { "name": "1 Star from each Galaxy in 2 Worlds" },
 { "name": "Get a Set of Star Chips, then the Star for 3 Missions" },
 { "name": "6 Hidden Stars" },
-{ "name": "Get a Silver Crown in 5 Galaxies" },
+{ "name": "Silver Crown in 5 Galaxies" },
 { "name": "30 Stars" }
 ],[
 { "name": "32 Stars" },
