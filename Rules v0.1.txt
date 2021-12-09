@@ -11,23 +11,27 @@ SMG2 Bingo Rules:
       (Note that the current version of the Bingo Gen is not built with 2P in mind, so the use of 2P is not recommended.)
 
 4. It is recommended that you use the provided save files, as they cut down on the relatively monotonous early game.
-      (These files have completed Sky Station 1 with the comet medal, have 0 star bits and 0 coins,
-       and have already watched the cutscene where you step on Starship Mario's panel for the first time.)
+      (These files have completed Sky Station 1 with the comet medal, have 0 star bits,
+       and have watched the cutscene where you step on Starship Mario's panel for the first time.)
    However, if this is not possible, you may start from a fresh file, as long as everyone starts from the same place.
 
-   4a. If using the provided saves, you may replay Sky Station 1 (or any star) for any reason.
+5. Players may replay any star as much as they wish for purposes such as grinding star bits, reclaiming a missed
+   comet medal, or spawning a new comet. However, if something in that level has already been used for a goal,
+   doing that thing again does not count a second time.
+      For example, doing Sky Station 2's teleporter game 5 times would NOT satisfy the goal
+      "Complete 5 Teleporter Games, then Get the Star", but it would count for 1 teleporter game.
 
-5. Switching save files during a game is banned. If the game crashes or the game must be quit for some other reason,
+6. Switching save files during a game is banned. If the game crashes or the game must be quit for some other reason,
    you must re-enter on the same file.
 
-6. External sources, such as the Cheat Sheet, the internet, or other people, are allowed.
+7. External sources, such as the Cheat Sheet, the internet, or other people, are allowed.
    Be aware that using these resources will cost you valuable time and may alert others to your targeted goals.
 
-7. There are no additional requirements to finish other than the inherent requirements of the bingo game itself.
+8. There are no additional requirements to finish other than the inherent requirements of the bingo game itself.
    Beating Galaxy Generator is NOT required.
    For example, the only requirement to win a triple bingo is to get 3 bingos.
 
-8. Banktoad is banned. (He doesn't even spawn, anyway.)
+9. Banktoad is banned. (He doesn't even spawn, anyway.)
 
 
 ---The following rules pertain to specific goals.---
@@ -44,13 +48,17 @@ SMG2 Bingo Rules:
           For example, the Dig-a-Leg fights in Spin Dig 1 and Spin Dig C do NOT count as distinct boss fights.
 
    1c. The different Bowser fights DO count as unique bosses.
+
+   1d. Gobblegut and Fiery Gobblegut DO count as unique bosses.
+
+   1e. Puzzle Plank 1's Mandibug Stack DOES count as a boss.
    
-   1d. Each fight in Boss Blitz DOES count as a unique boss (for 5 total).
+   1f. Each fight in Boss Blitz DOES count as a unique boss (for 5 total).
 
 2. For goals that mention "riding Yoshi", you must be RIDING Yoshi when you collect the Star 
    for it to count towards the goal.
 
-3. For the goal "Get Crushed by Something that isn't an Enemy", Whomps and Thwomps are enemies.
+3. For the goal "Get Crushed by Something that isn't an Enemy", Whomps, Thwomps, and Tox Boxes are enemies.
 
 4. For goals that mention "Teleporter Games", teleporter games are the blue and yellow portals that
    take the character to a special zone where they must kill all the enemies in a short time limit
