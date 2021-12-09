@@ -24,12 +24,12 @@
 { "name": "Sky Station C", "types": ["speed","boss"] }
 ],[
 { "name": "Get Crushed by Something that isn't an Enemy", "types": ["funny"] },
-{ "name": "12 Lives (No Mailtoad/ Supermassive 1)", "types": ["lives"] },
+{ "name": "12 Lives (No Peach Letter/ Supermassive 1)", "types": ["lives"] },
 { "name": "Hightail Falls S", "types": ["hidden","lumacoin"] },
 { "name": "1 Romp Comet", "types": ["comet","romp"] },
 { "name": "End a Star with 100 Star Bits", "types": ["starbit"] }
 ],[
-{ "name": "Complete 3 Teleporter Games, then Get the Star", "types": ["tele"] },
+{ "name": "Complete 3 Teleporter Games, then Get the Star", "types": ["tele","lives"] },
 { "name": "Honeybloom 1", "types": ["2","luma"] },
 { "name": "End a Star with 110 Coins", "types": ["coin"] },
 { "name": "Lose 2 Life Mushrooms", "types": ["funny"] },
@@ -44,7 +44,7 @@
 { "name": "1 Fluzzard OR Star Ball Star", "types": ["bird","ball"] },
 { "name": "Fluffy Bluff L", "types": ["chimp","letter"] },
 { "name": "4 Hidden Stars", "types": ["hidden"] },
-{ "name": "Complete 5 Teleporter Games, then Get the Star", "types": ["tele"] },
+{ "name": "Complete 5 Teleporter Games, then Get the Star", "types": ["tele","lives"] },
 { "name": "1 Star from each Galaxy in 1 World", "types": ["comp"] }
 ],[
 { "name": "Haunty Halls 2", "types": ["3"] },
@@ -75,12 +75,12 @@
 { "name": "3 Sets of Silver Stars", "types": ["silver"] },
 { "name": "7 Stars in World 3", "types": ["3","comp"] },
 { "name": "5 Unique Powerups", "types": ["pup"] },
-{ "name": "Complete 7 Teleporter Games, then Get the Star", "types": ["tele"] }
+{ "name": "Complete 7 Teleporter Games, then Get the Star", "types": ["tele","lives"] }
 ],[
 { "name": "6 Unique Bosses", "types": ["boss"] },
 { "name": "1 Star from each Galaxy in 2 Worlds", "types": ["comp"] },
 { "name": "4 Unique Letters", "types": ["letter"] },
-{ "name": "20 Lives (No Mailtoad/ Supermassive 1)", "types": ["lives"] },
+{ "name": "20 Lives (No Peach Letter/ Supermassive 1)", "types": ["lives"] },
 { "name": "7 Unique Bosses", "types": ["boss"] }
 ],[
 { "name": "Wild Glide L", "types": ["bird","letter"] },
