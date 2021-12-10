@@ -47,33 +47,33 @@
 { "name": "Complete 5 Teleporter Games, then Get the Star", "types": ["tele","lives"] },
 { "name": "1 Star from each Galaxy in 1 World", "types": ["comp"] }
 ],[
-{ "name": "Haunty Halls 2", "types": ["3"] },
 { "name": "Cloudy Court S", "types": ["hidden","lumacoin","silver","clone"] },
 { "name": "Feed 3 Hungry Lumas (Any Kind Except Shop)", "types": ["luma","lumacoin"] },
 { "name": "4 Stars from Comets", "types": ["comet"] },
-{ "name": "660 or More in the Skating Challenge", "types": ["chimp","hidden","3"] }
+{ "name": "660 or More in the Skating Challenge", "types": ["chimp","hidden","3"] },
+{ "name": "7 Stars from World 2", "types": ["2","comp"] }
 ],[
-{ "name": "7 Stars from World 2", "types": ["2","comp"] },
 { "name": "14 Comet Medals", "types": ["comet"] },
 { "name": "3 Timed Comets", "types": ["speed","comet","romp","purple"] },
 { "name": "Silver Crown in 3 Galaxies", "types": ["crown"] },
-{ "name": "4 Stars from World 4", "types": ["4"] }
+{ "name": "4 Stars from World 4", "types": ["4"] },
+{ "name": "Spawn a Cosmic Clone, then Get the Star for 3 Stars", "types": ["clone"] }
 ],[
-{ "name": "Spawn a Cosmic Clone, then Get the Star for 3 Stars", "types": ["clone"] },
 { "name": "Supermassive S", "types": ["4","hidden"] },
 { "name": "5 Stars while Riding Yoshi", "types": ["yoshi"] },
 { "name": "Freezy Flake 2", "types": ["3"] },
-{ "name": "Boulder Bowl L", "types": ["letter"] }
+{ "name": "Boulder Bowl L", "types": ["letter"] },
+{ "name": "Fiery Flotilla C", "types": ["boss","speed"] }
 ],[
-{ "name": "Fiery Flotilla C", "types": ["boss","speed"] },
 { "name": "6 Hidden Stars", "types": ["hidden"] },
 { "name": "Chompworks 2", "types": ["4","pup"] },
 { "name": "Get a Set of Star Chips, then the Star for 3 Stars", "types": ["chips"] },
-{ "name": "Flip-Swap C", "types": ["purple","luma"] }
+{ "name": "Flip-Swap C", "types": ["purple","luma"] },
+{ "name": "1 Fluzzard Star AND 1 Star Ball Star", "types": ["bird","ball"] }
 ],[
-{ "name": "1 Fluzzard Star AND 1 Star Ball Star", "types": ["bird","ball"] },
 { "name": "3 Sets of Silver Stars", "types": ["silver"] },
 { "name": "7 Stars in World 3", "types": ["3","comp"] },
+{ "name": "Haunty Halls C", "types": ["clone"] },
 { "name": "5 Unique Powerups", "types": ["pup"] },
 { "name": "Complete 7 Teleporter Games, then Get the Star", "types": ["tele","lives"] }
 ],[
@@ -117,17 +117,17 @@
 { "name": "4 Stars from Hungry Luma Galaxies", "types": ["luma","starbit"] },
 { "name": "4 Stars from The Chimp", "types": ["chimp"] },
 { "name": "30 Stars", "types": ["comp"] },
-{ "name": "5 Grand Stars", "types": ["boss","5","6"] }
+{ "name": "12 Stars from Comets", "types": ["comet"] }
 ],[
+{ "name": "5 Grand Stars", "types": ["boss","5","6"] },
+{ "name": "Silver Crown in Boo Moon", "types": ["crown","5","hidden","pup"] },
 { "name": "32 Stars", "types": ["comp"] },
-{ "name": "12 Stars from Comets", "types": ["comet"] },
 { "name": "Slimy Spring 1", "types": ["6"] },
-{ "name": "7 Stars from World 5", "types": ["5","comp"] },
 { "name": "Clockwork Ruins 1", "types": ["6"] }
 ],[
+{ "name": "7 Stars from World 5", "types": ["5","comp"] },
 { "name": "34 Stars", "types": ["comp"] },
 { "name": "4 Stars from World 6", "types": ["6"] },
-{ "name": "Silver Crown in Boo Moon", "types": ["crown","5","hidden","pup"] },
 { "name": "Slipsand C", "types": ["daredevil","boss"] },
 { "name": "1 Comet in World 6", "types": ["comet","6"] }
 ],[
