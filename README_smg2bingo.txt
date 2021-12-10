@@ -51,6 +51,7 @@ Giving feedback on Bingo goals:
    - Silver
    - Blipblo
    - MarioGaming64
+   - mkk
 
 Creating the goal location chart:
    - MarioGaming64

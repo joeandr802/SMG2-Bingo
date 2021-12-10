@@ -2,10 +2,10 @@
 { "name": "Spawn a Cosmic Clone, then Get the Star", "types": ["clone"] },
 { "name": "Rightside Down 1", "types": ["1"] },
 { "name": "2 Hidden Stars", "types": ["hidden"] },
-{ "name": "1UP from a Chance Cube", "types": ["funny","lives"] },
+{ "name": "Fluffy Bluff 1 with Comet Medal", "types": ["1","clone","chips","chimp","pup"] },
 { "name": "4 Stars from World 2", "types": ["2"] }
 ],[
-{ "name": "Kill a Lakitu, then Get the Star", "types": ["funny"] },
+{ "name": "3 1UPs from Chance Cubes", "types": ["funny","lives"] },
 { "name": "8 Comet Medals", "types": ["comet"] },
 { "name": "3 Unique Powerups", "types": ["pup"] },
 { "name": "Silver Crown in 1 Galaxy", "types": ["crown"] },
