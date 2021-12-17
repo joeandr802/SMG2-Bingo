@@ -52,8 +52,10 @@ SMG2 Bingo Rules:
    1d. Gobblegut and Fiery Gobblegut DO count as unique bosses.
 
    1e. Puzzle Plank 1's Mandibug Stack DOES count as a boss.
+
+   1f. Silver Chomps do NOT count as bosses.
    
-   1f. Each fight in Boss Blitz DOES count as a unique boss (for 5 total).
+   1g. Each fight in Boss Blitz DOES count as a unique boss (for 5 total).
 
 2. For goals that mention "riding Yoshi", you must be RIDING Yoshi when you collect the Star 
    for it to count towards the goal.
@@ -145,3 +147,8 @@ SMG2 Bingo Rules:
 20.For the goal "Twisty Trials 1 Cloudless", you must complete the level without ever collecting a Cloud Flower.
  
       If you accidentally collect a Cloud Flower, you must either die or exit the level if you want to retry the goal.
+
+21.For goals that mention "Spawn Cosmic Clones and collect the star in X missions", you essentially have to complete a star with 
+   Cosmic Clones in it for it to count. It's worded this way so that the player actually has to make the clones appear; i.e.
+   skipping the star chip planet in Fluffy Bluff 1 would make that star not count for this goal, even though that star has 
+   Cosmic Clones in it.
