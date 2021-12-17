@@ -53,7 +53,7 @@
 { "name": "660 or More in the Skating Challenge", "types": ["chimp","hidden","3"] },
 { "name": "7 Stars from World 2", "types": ["2","comp"] }
 ],[
-{ "name": "14 Comet Medals", "types": ["comet"] },
+{ "name": "13 Comet Medals", "types": ["comet"] },
 { "name": "3 Timed Comets", "types": ["speed","comet","romp","purple"] },
 { "name": "Silver Crown in 3 Galaxies", "types": ["crown"] },
 { "name": "4 Stars from World 4", "types": ["4"] },
@@ -107,7 +107,7 @@
 { "name": "Both Box-Breaking Minigames", "types": ["5","hidden"] },
 { "name": "3 Stars from Hungry Luma Galaxies", "types": ["luma"] }
 ],[
-{ "name": "20 Comet Medals", "types": ["comet"] },
+{ "name": "18 Comet Medals", "types": ["comet"] },
 { "name": "Gravity Gauntlet C", "types": ["speed"] },
 { "name": "Space Storm L", "types": ["letter","5"] },
 { "name": "Beat Block C Yoshiless", "types": ["challenge","fast","silver"] },
@@ -134,7 +134,7 @@
 { "name": "Throwback C", "types": ["speed"] },
 { "name": "Fleet Glide L", "types": ["bird","letter","luma"] },
 { "name": "Battle Belt S", "types": ["hidden","boss","6","lumacoin"] },
-{ "name": "Honeyhop L", "types": ["letter"] },
+{ "name": "Honeyhop L", "types": ["letter","6"] },
 { "name": "Silver Crown in Melty Monster", "types": ["crown","6","hidden","chimp"] }
 ],[
 { "name": "Boom Bunker C", "types": ["daredevil","boss"] },
