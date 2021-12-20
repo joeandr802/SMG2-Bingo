@@ -48,16 +48,16 @@
 { "name": "1 Star from each Galaxy in 1 World", "types": ["comp"] }
 ],[
 { "name": "Cloudy Court S", "types": ["hidden","lumacoin","silver","clone"] },
+{ "name": "Spawn a Cosmic Clone, then Get the Star for 4 Stars", "types": ["clone"] }
 { "name": "Feed 3 Hungry Lumas (Any Kind Except Shop)", "types": ["luma","lumacoin"] },
-{ "name": "4 Stars from Comets", "types": ["comet"] },
 { "name": "660 or More in the Skating Challenge", "types": ["chimp","hidden","3"] },
 { "name": "7 Stars from World 2", "types": ["2","comp"] }
 ],[
+{ "name": "4 Stars from Comets", "types": ["comet"] },
 { "name": "13 Comet Medals", "types": ["comet"] },
 { "name": "3 Timed Comets", "types": ["speed","comet","romp","purple"] },
 { "name": "Silver Crown in 3 Galaxies", "types": ["crown"] },
 { "name": "4 Stars from World 4", "types": ["4"] },
-{ "name": "Spawn a Cosmic Clone, then Get the Star for 3 Stars", "types": ["clone"] }
 ],[
 { "name": "Supermassive S", "types": ["4","hidden"] },
 { "name": "5 Stars while Riding Yoshi", "types": ["yoshi"] },
