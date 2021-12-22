@@ -8,7 +8,7 @@ SMG2 Bingo Rules:
       (The provided save contains 2 Mario files and 1 Luigi file, and they all have the character-change room unlocked.)
 
 3. Players must decide beforehand whether or not to allow 2P.
-      (Note that the current version of the Bingo Gen is not built with 2P in mind, so the use of 2P is not recommended.)
+      (Note that the current version of the Bingo Gen is not built with 2P in mind.)
 
 4. It is recommended that you use the provided save files, as they cut down on the relatively monotonous early game.
       (These files have completed Sky Station 1 with the comet medal, have 0 star bits,
@@ -21,17 +21,20 @@ SMG2 Bingo Rules:
       For example, doing Sky Station 2's teleporter game 5 times would NOT satisfy the goal
       "Complete 5 Teleporter Games, then Get the Star", but it would count for 1 teleporter game.
 
-6. Switching save files during a game is banned. If the game crashes or the game must be quit for some other reason,
+6. All goals require you to finish the star you complete them in. For example, if you do your third teleporter game
+   in Yoshi Star 1, you must wait to claim the "3 Teleporter Games" goal until you complete Yoshi Star 1.
+
+7. Switching save files during a game is banned. If the game crashes or the game must be quit for some other reason,
    you must re-enter on the same file.
 
-7. External sources, such as the Cheat Sheet, the internet, or other people, are allowed.
+8. External sources, such as the Cheat Sheet, the internet, or other people, are allowed.
    Be aware that using these resources will cost you valuable time and may alert others to your targeted goals.
 
-8. There are no additional requirements to finish other than the inherent requirements of the bingo game itself.
+9. There are no additional requirements to finish other than the inherent requirements of the bingo game itself.
    Beating Galaxy Generator is NOT required.
    For example, the only requirement to win a triple bingo is to get 3 bingos.
 
-9. Banktoad is banned. (He doesn't even spawn, anyway.)
+10.Banktoad is banned. (He doesn't even spawn, anyway.)
 
 
 ---The following rules pertain to specific goals.---
@@ -97,7 +100,7 @@ SMG2 Bingo Rules:
 9. For goals that start with "Feed X Hungry Lumas", the Lumas that count are the coin Hungry Lumas that unlock
    hidden stars in specific levels, and the starbit Hungry Lumas that unlock new galaxies in each world.
 
-      Luma Shops (see rule 10) do NOT count.
+      Luma Shops (see rule 5) do NOT count.
 
 10.For goals that ask the player to accumulate a certain amount of lives, the following lives do not count:
 
@@ -119,7 +122,7 @@ SMG2 Bingo Rules:
 
 14.For goals that mention "Unique Letters", any letter with distinct text from another letter counts.
 
-      Notably, the letters to the baby Luma from Rosalina containing 50 star bits are all unique, as they have different text.
+      Notably, the letters from Rosalina containing 50 star bits are all unique, as they have different text.
 
       If the Peach letter is obtained multiple times, the duplicate letters do NOT count, as they have the same text.
 
@@ -148,7 +151,7 @@ SMG2 Bingo Rules:
  
       If you accidentally collect a Cloud Flower, you must either die or exit the level if you want to retry the goal.
 
-21.For goals that mention "Spawn Cosmic Clones and collect the star in X missions", you essentially have to complete a star with 
-   Cosmic Clones in it for it to count. It's worded this way so that the player actually has to make the clones appear; i.e.
-   skipping the star chip planet in Fluffy Bluff 1 would make that star not count for this goal, even though that star has 
+21.For goals that mention "Spawn Cosmic Clones in X missions", you essentially have to complete a star with Cosmic Clones
+   in it for it to count. It's worded this way so that the player actually has to make the clones appear; i.e. skipping
+   the star chip planet in Fluffy Bluff 1 would make that star not count for this goal, even though that star has 
    Cosmic Clones in it.

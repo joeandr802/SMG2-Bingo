@@ -19,7 +19,7 @@ There is also a copy of the board generator, so you can start Bingo games on you
 This mod uses a built-in crash debugger. If you encounter a crash, 
 please send me your save file and pictures of the crash screen if you can.
 
-I changed a Luma in-game to say this, but I'll repeat it here:
+I used to have a Luma in-game say this, but I removed it, so I'll repeat it here:
 
 Thank you for playing Super Mario Galaxy 2 Bingo!
 This is my first SMG2 mod, so if you find any bugs, please let me know.
