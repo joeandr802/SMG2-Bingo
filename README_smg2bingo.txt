@@ -50,6 +50,7 @@ Beta testing Bingo goals:
 Giving feedback on Bingo goals:
    - Silver
    - Blipblo
+   - Shadow64
    - MarioGaming64
    - mkk
 

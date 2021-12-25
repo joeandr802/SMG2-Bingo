@@ -40,30 +40,20 @@ SMG2 Bingo Rules:
 ---The following rules pertain to specific goals.---
 
 
-1. For goals that mention "unique bosses", the following special cases apply:
+1. For goals that mention "boss fights", the following special cases apply:
 
    1a. If using the provided saves, Sky Station 1's Peewee Pirhana fight does NOT count...
           ...UNLESS you choose to replay Sky Station 1.
-	  (You can also play Sky Station C if you want to use Peewee for this goal.)
        If starting from a fresh file, Sky Station 1's Peewee Pirhana fight DOES count.
 
-   1b. "Unique bosses" means that fighting the same boss in the comet does NOT count twice.
-          For example, the Dig-a-Leg fights in Spin Dig 1 and Spin Dig C do NOT count as distinct boss fights.
+   1b. Puzzle Plank 1's Mandibug Stack DOES count as a boss.
 
-   1c. The different Bowser fights DO count as unique bosses.
-
-   1d. Gobblegut and Fiery Gobblegut DO count as unique bosses.
-
-   1e. Puzzle Plank 1's Mandibug Stack DOES count as a boss.
-
-   1f. Silver Chomps do NOT count as bosses.
-   
-   1g. Each fight in Boss Blitz DOES count as a unique boss (for 5 total).
+   1c. Silver Chomps do NOT count as bosses.
 
 2. For goals that mention "riding Yoshi", you must be RIDING Yoshi when you collect the Star 
    for it to count towards the goal.
 
-3. For the goal "Get Crushed by Something that isn't an Enemy", Whomps, Thwomps, and Tox Boxes are enemies.
+3. For the goal "Get Crushed, but NOT by an Enemy", Whomps, Thwomps, and Tox Boxes are enemies.
 
 4. For goals that mention "Teleporter Games", teleporter games are the blue and yellow portals that
    take the character to a special zone where they must kill all the enemies in a short time limit
@@ -120,38 +110,31 @@ SMG2 Bingo Rules:
 
       This includes all Speed Run comets, all Romp comets, and each Purple Coin comet that has a time limit.
 
-14.For goals that mention "Unique Letters", any letter with distinct text from another letter counts.
-
-      Notably, the letters from Rosalina containing 50 star bits are all unique, as they have different text.
-
-      If the Peach letter is obtained multiple times, the duplicate letters do NOT count, as they have the same text.
-
-      (You can check the different unique letters you have by talking to Mailtoad when he doesn't have a new letter.)
-
-15.For goals that mention "Hungry Luma Galaxies", Hungry Luma Galaxies are galaxies that are unlocked
+14.For goals that mention "Hungry Luma Galaxies", Hungry Luma Galaxies are galaxies that are unlocked
    by feeding a Hungry Luma on the World Map a certain number of star bits.
 
-16.For goals that mention "Silver Crowns", Silver Crowns appear on a given galaxy when you complete
+15.For goals that mention "Silver Crowns", Silver Crowns appear on a given galaxy when you complete
    all non-green stars in that galaxy.
 
-17.For the goal "Both Box-Breaking Minigames", this refers to the minigames in Rightside Down S and Upside Dizzy S,
+16.For the goal "Both Box-Breaking Minigames", this refers to the minigames in Rightside Down S and Upside Dizzy S,
    where a Gearmo asks the player to destroy crates with a Fire Flower in 20 seconds.
 
-18.For the goal "Beat Block C Yoshiless", you must complete the level without ever riding Yoshi.
+17.For the goal "Beat Block C Yoshiless", you must complete the level without ever riding Yoshi.
  
       If you accidentally ride Yoshi, you must either die or exit the level if you want to retry the goal.
 
       If you have collected a checkpoint, you MUST exit level if you want to retry the goal.
 
-19.For goals that mention "X Stars from the Chimp", any star the Chimp gives you counts for this goal.
+18.For goals that mention "X Stars from the Chimp", any star the Chimp gives you counts for this goal.
 
       This includes Fluffy Bluff 1, even though there is no inherent "game" involved in that star.
 
-20.For the goal "Twisty Trials 1 Cloudless", you must complete the level without ever collecting a Cloud Flower.
+19.For the goal "Twisty Trials 1 Cloudless", you must complete the level without ever collecting a Cloud Flower.
  
       If you accidentally collect a Cloud Flower, you must either die or exit the level if you want to retry the goal.
 
-21.For goals that mention "Spawn Cosmic Clones in X missions", you essentially have to complete a star with Cosmic Clones
-   in it for it to count. It's worded this way so that the player actually has to make the clones appear; i.e. skipping
-   the star chip planet in Fluffy Bluff 1 would make that star not count for this goal, even though that star has 
-   Cosmic Clones in it.
+20.For goals that mention "Spawn Cosmic Clones in X Stars", you essentially have to complete a star with Cosmic Clones
+   in it for it to count. It's worded this way so that the player actually has to make the clones appear.
+
+	Skipping the star chip planet in Fluffy Bluff 1 would make that star not count for this goal, 
+	even though that star has Cosmic Clones in it.
