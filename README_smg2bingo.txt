@@ -5,12 +5,17 @@ as well as an SD card and a copy of Super Mario Galaxy 2 on disc that
 matches the region of your Wii/Wii U.
 
 Once you have those things, follow these steps to install the mod.
-1. Extract the zip folder you recieved into the root of your SD Card.
-2. Put your SD card in your console and transfer the English Super Mario Galaxy 2 save 
-   from your SD card to your Wii System Memory. 
-WARNING: This will overwrite your current SMG2 save. Be sure to back it up somewhere.
-3. Make sure your SD card and game disc are in your Wii when you launch Riivolution.
-4. Make sure ONLY the SMG2 Bingo Mod is enabled, then launch the game.
+
+1. Put the "private", "riivolution", and "SMG2 Bingo" folders onto the root of your SD Card.
+      (If you won't use the provided saves, you don't have to copy the "private" folder.)
+2. Your computer may warn you that the destination has files of the same names. Select 
+   "Replace the files" to continue with installation.
+WARNING: This will overwrite any English SMG2 save on your SD card. Be sure to have a backup.
+3. Put your SD card in your console and copy the English Super Mario Galaxy 2 save 
+   from your SD card to your Wii System Memory.
+      (If you aren't using the provided saves, you don't have to copy the SMG2 save.)
+4. Make sure your SD card and SMG2 disc are in your Wii when you launch Riivolution.
+5. Make sure ONLY the SMG2 Bingo Mod is enabled, then launch the game.
 
 A spreadsheet is included in your download. It details all gameplay changes made in
 the mod. Referring to it during your Bingo game is allowed and encouraged. 
@@ -70,4 +75,3 @@ Helping with the Fearsome Fleet crash:
 
 Discovery of the crash debugger:
    - Treeki
-
