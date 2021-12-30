@@ -1,0 +1,140 @@
+SMG2 Bingo Rules:
+
+1. While playing, no other mods or codes are allowed other than those included in the Bingo mod.
+
+   1a. To that end, modifying the Bingo mod files without the consent of the other competitors is strictly forbidden.
+
+2. Players must decide beforehand which character to use and whether or not character swapping will be allowed.
+      (The provided save contains 2 Mario files and 1 Luigi file, and they all have the character-change room unlocked.)
+
+3. Players must decide beforehand whether or not to allow 2P.
+      (Note that the current version of the Bingo Gen is not built with 2P in mind.)
+
+4. It is recommended that you use the provided save files, as they cut down on the relatively monotonous early game.
+      (These files have completed Sky Station 1 with the comet medal, have 0 star bits,
+       and have watched the cutscene where you step on Starship Mario's panel for the first time.)
+   However, if this is not possible, you may start from a fresh file, as long as everyone starts from the same place.
+
+5. Players may replay any star as much as they wish for purposes such as grinding star bits, reclaiming a missed
+   comet medal, or spawning a new comet. However, if something in that level has already been used for a goal,
+   doing that thing again does not count a second time.
+      For example, doing Sky Station 2's teleporter game 5 times would NOT satisfy the goal
+      "Complete 5 Teleporter Games, then Get the Star", but it would count for 1 teleporter game.
+
+6. All goals require you to finish the star you complete them in. For example, if you do your third teleporter game
+   in Yoshi Star 1, you must wait to claim the "3 Teleporter Games" goal until you complete Yoshi Star 1.
+
+7. Switching save files during a game is banned. If the game crashes or the game must be quit for some other reason,
+   you must re-enter on the same file.
+
+8. External sources, such as the Cheat Sheet, the internet, or other people, are allowed.
+   Be aware that using these resources will cost you valuable time and may alert others to your targeted goals.
+
+9. There are no additional requirements to finish other than the inherent requirements of the bingo game itself.
+   Beating Galaxy Generator is NOT required.
+   For example, the only requirement to win a triple bingo is to get 3 bingos.
+
+10.Banktoad is banned. (He doesn't even spawn, anyway.)
+
+
+---The following rules pertain to specific goals.---
+
+
+1. For goals that mention "boss fights", the following special cases apply:
+
+   1a. If using the provided saves, Sky Station 1's Peewee Pirhana fight does NOT count...
+          ...UNLESS you choose to replay Sky Station 1.
+       If starting from a fresh file, Sky Station 1's Peewee Pirhana fight DOES count.
+
+   1b. Puzzle Plank 1's Mandibug Stack DOES count as a boss.
+
+   1c. Silver Chomps do NOT count as bosses.
+
+2. For goals that mention "riding Yoshi", you must be RIDING Yoshi when you collect the Star 
+   for it to count towards the goal.
+
+3. For the goal "Get Crushed, but NOT by an Enemy", Whomps, Thwomps, and Tox Boxes are enemies.
+
+4. For goals that mention "Teleporter Games", teleporter games are the blue and yellow portals that
+   take the character to a special zone where they must kill all the enemies in a short time limit
+   in order to recieve a prize, usually 3 1UP mushrooms.
+
+5. For the goal "Buy from 2 Luma Shops", Luma shops are the blue lumas that sell you either a
+   Life Mushroom or a 1UP Mushroom for 30 Star Bits.
+
+6. For goals that mention powerups, the following items DO count as powerups:
+   - Spin Drill
+   - Cloud Flower
+   - Fire Flower
+   - Rock Mushroom
+   - Bee Mushroom
+   - Spring Mushroom
+   - Boo Mushroom
+   - Rainbow Star
+   - Dash Pepper
+   - Blimp Fruit
+   - Bulb Berry
+
+   The following items do NOT count as powerups:
+      - Yoshi
+      - Life Mushroom
+      - 1UP Mushroom
+      - Anything else not on the first list
+
+7. For the goal "Bring 3 Powerups to the Engine Room", the Engine Room is the room on Starship Mario
+   that contains up to 7 of Mario's powerups, which you "bring back" after completing specific missions.
+
+8. For the goal "1 Bronze Star", a Bronze Star is the star you get after allowing the Cosmic Guide to
+   take control of Mario. The Cosmic Guide appears in specific missions after dying a set number of times.
+
+9. For goals that start with "Feed X Hungry Lumas", the Lumas that count are the coin Hungry Lumas that unlock
+   hidden stars in specific levels, and the starbit Hungry Lumas that unlock new galaxies in each world.
+
+      Luma Shops (see rule 5) do NOT count.
+
+10.For goals that ask the player to accumulate a certain amount of lives, the following lives do not count:
+
+      - Lives obtained from Princess Peach's letter
+      - Lives obtained from repeatedly bouncing off of the giant Koopa Troopas in Supermassive Galaxy.
+
+      If lives are obtained this way and you still want to complete the goal, you must obtain a number of lives
+      equal to the original number of lives in the goal PLUS all lives obtained from forbidden methods.
+
+      All other methods of obtaining lives are valid for these goals.
+
+11.For goals that mention "X Comet Medals", Sky Station 1's comet medal DOES count.
+
+12.For goals that mention "X Stars" and goals that mention "X Stars in World 1", Sky Station 1 DOES count.
+
+13.For goals that mention "Timed Comets", any comet with a time limit counts.
+
+      This includes all Speed Run comets, all Romp comets, and each Purple Coin comet that has a time limit.
+
+14.For goals that mention "Hungry Luma Galaxies", Hungry Luma Galaxies are galaxies that are unlocked
+   by feeding a Hungry Luma on the World Map a certain number of star bits.
+
+15.For goals that mention "Silver Crowns", Silver Crowns appear on a given galaxy when you complete
+   all non-green stars in that galaxy.
+
+16.For the goal "Both Box-Breaking Minigames", this refers to the minigames in Rightside Down S and Upside Dizzy S,
+   where a Gearmo asks the player to destroy crates with a Fire Flower in 20 seconds.
+
+17.For the goal "Beat Block C Yoshiless", you must complete the level without ever riding Yoshi.
+ 
+      If you accidentally ride Yoshi, you must either die or exit the level if you want to retry the goal.
+
+      If you have collected a checkpoint, you MUST exit level if you want to retry the goal.
+
+18.For goals that mention "X Stars from the Chimp", any star the Chimp gives you counts for this goal.
+
+      This includes Fluffy Bluff 1, even though there is no inherent "game" involved in that star.
+
+19.For the goal "Twisty Trials 1 Cloudless", you must complete the level without ever collecting a Cloud Flower.
+ 
+      If you accidentally collect a Cloud Flower, you must either die or exit the level if you want to retry the goal.
+
+20.For goals that mention "Spawn Cosmic Clones in X Stars", you essentially have to complete a star with Cosmic Clones
+   in it for it to count. It's worded this way so that the player actually has to make the clones appear.
+
+	Skipping the star chip planet in Fluffy Bluff 1 would make that star not count for this goal, 
+	even though that star has Cosmic Clones in it.
