@@ -40,7 +40,7 @@ Testing the mod on NTSC English discs:
    - Steakanator
    - Claire
    - Silver
-   - Bliplo
+   - Blipblo
 
 Testing the mod on non-NTSC English discs:
    - Ginkgarbor
